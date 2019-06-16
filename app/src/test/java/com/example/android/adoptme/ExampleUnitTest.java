@@ -1,4 +1,4 @@
-package com.example.jhon.adoptame;
+package com.example.android.adoptme;
 
 import org.junit.Test;
 
